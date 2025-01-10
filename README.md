@@ -52,8 +52,8 @@ plaintext
 5. Exit the program.
 ====================================
 
-Enter your username: JohnDoe
-Welcome, JohnDoe! Let's calculate your BMI.
+Enter your username: KayraBuyuk
+Welcome, KayraBuyuk! Let's calculate your BMI.
 
 Please enter your weight in kilograms (e.g., 70.5): 70.5
 Please enter your height in meters (e.g., 1.75): 1.75
@@ -63,12 +63,12 @@ Your BMI is: 23.02
 BMI Category: Normal weight
 ====================================
 
-Thank you for using the BMI Calculator, JohnDoe. Stay healthy!
+Thank you for using the BMI Calculator, KayraBuyuk. Stay healthy!
 
 
 ## Team Members
-- *[Your Name]* - Project Lead
-- *[Other Member Names]* - Contributors
+- *Kayra Küçük* - Project Lead
+- *Canberk Çiroz, Altan Armağan, Merve Nur İncel, Elif Özer* - Contributors
 
 ## Screenshots
 (Include relevant screenshots or demo images if applicable)
